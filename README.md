@@ -1,16 +1,34 @@
-### Hi there 👋
+##  Hi, I'm Fred Portela, a Full Stack Developer from Brazil.  ##
 
-<!--
-**fredportela/fredportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For almost ** 18 years ** working on software development
 
-Here are some ideas to get you started:
+[![Github](https://camo.githubusercontent.com/71306d540e1cc165cf679a0eb24b6a88f1aae9be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465)](https://github.com/FredPortela) [![Gmail](https://camo.githubusercontent.com/e10f1bf75301fdc95d63d7251e4373b819406497/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c6174266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465)](mailto:fredportela@gmail.com) [![Linkedin](https://camo.githubusercontent.com/dd86c49da13083be104023b52ee6e54e550d0dd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/fredpaveloso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personal Infos:**
+
+-   💼 I’m currently working on [Spread ](https://spread.com.br/);
+-   🔧 I enjoy developing new technologies;
+-   💬 Ask me about anything, I am happy to help;
+-   📫 How to reach me: [fredportela@gmail.com](mailto:fredportela@gmail.com);
+
+<a href="https://github.com/fredportela">
+    <img width="50%" align="right" width="50%" alt="FredPortela github stats" src="https://github-readme-stats.vercel.app/api?username=FredPortela&show_icons=true&hide_border=true" />
+</a>
+
+
+**Technologys:**
+- **Backend** 
+  
+  - NodeJs
+  - .NET
+  - .NET Core
+  - Java
+  - JavaEE(7) 
+  - Spring
+  - PHP
+
+- **Front End**
+  - ES6 / ES7
+  - Angular Js
+  - Angular
+  - React
