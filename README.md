@@ -21,15 +21,18 @@ For almost ** 18 years ** working on software development
 - **Backend** 
   
   - NodeJs
-  - .NET
-  - .NET Core
+  - NestJs
   - Java
   - JavaEE(7) 
+  - Quarkus
   - Spring
+  - .NET
+  - .NET Core
   - PHP
 
 - **Front End**
   - ES6 / ES7
-  - Angular Js
-  - Angular
+  - Angular 2+
   - React
+  - Angular Js
+ 
