@@ -22,12 +22,11 @@ For almost ** 20 years ** working on software development
   
   - NodeJs
   - NestJs
+  - Java
+  - Quarkus
+  - Spring Boot
   - .NET
   - .NET Core
-  - Java
-  - JavaEE(8) 
-  - Quarkus
-  - Spring
   - PHP
 
 - **Front End**
