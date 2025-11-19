@@ -7,7 +7,7 @@ For almost ** 21 years ** working on software development
 
 **Personal Infos:**
 
--   💼 I’m currently working on [Sonda]([https://sonda.com/](https://www.sonda.com/));
+-   💼 I’m currently working on [FOTON]([https://foton.la/](https://www.foton.la/));
 -   🔧 I enjoy developing new technologies;
 -   💬 Ask me about anything, I am happy to help;
 -   📫 How to reach me: [fredportela@gmail.com](mailto:fredportela@gmail.com);
